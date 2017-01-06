@@ -1,3 +1,9 @@
+# 2017/01/05 SteveRoland
+
+use this document : https://developers.500px.com/querying-aws-athena-from-python-4bc0fbd611ca#.8cji1vqor
+
+# Legacy
+
 =================================================================
  JayDeBeApi - bridge from JDBC database drivers to Python DB-API
 =================================================================
